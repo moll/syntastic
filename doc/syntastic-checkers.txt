@@ -2466,7 +2466,7 @@ Maintainer:  Joshua Rahm <joshuarahm@gmail.com>
 "cgc" is a compiler that translates Cg or GLSL programs into OpenGL or DirectX
 code. See the manual for more details:
 
-    http://http.developer.nvidia.com/Cg/cgc.html
+    http://developer.download.nvidia.com/cg/cgc.html
 
 Checker options~
 
